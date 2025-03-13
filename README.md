@@ -1,5 +1,5 @@
 # Análise de vendas de jogos
-Nesse projeto utilizei o dataset Video Games Sales postado no site Kaggle por Anand Shaw.
+Nesse projeto utilizei o dataset Vídeo Games Sales postado no site Kaggle por Anand Shaw.
 Contendo dados de vendas de video games.
 
 [link do dataset](https://www.kaggle.com/datasets/anandshaw2001/video-game-sales)
@@ -26,9 +26,9 @@ Nas plataformas o console Play-station 3 foi quem líderou as vendas de jogos. C
 Diferentemente da América do Norte e da Europa onde os jogos do gênero ação lideraram as vendas. 
 No japão os jogos do gênero role-play liderou as vendas. Demostrando uma preferência maior por esse 
 gênero entre o público japones. 
-Entre as plataformas. O líder de vendas de video games foi o console portatil Nintendo DS. 
+Entre as plataformas. O líder de vendas de vídeo games foi o console portatil Nintendo DS. 
 Demostrando uma preferência dos japoneses por consoles portáteis.
 ### Vendas Globais.
 ![image](https://github.com/user-attachments/assets/8af7ad23-3eb8-463f-9689-3ffc07a06764)
-Observando o cenário global na venda de video games. Entre os gêneros os jogos mais vendidos foram os do gênero ação. 
+Observando o cenário global na venda de vídeo games. Entre os gêneros os jogos mais vendidos foram os do gênero ação. 
 E nas plaformas o líder de vendas de jogos foi o console Play-Station 2.
